@@ -1,6 +1,11 @@
 # hapi-boilerplate
 Boilerplate Hapi utilisé pour les TP Node.JS des Licence pro
 
+```
+MONGO_HOST = localhost
+MONGO_NAME = filrouge
+```
+
 # Lancement
 
 ```
