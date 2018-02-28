@@ -17,7 +17,7 @@ nodejs server.js
 Ensuite, rendez vous sur :
 
 ```
-http://0.0.0.0:3000
+http://127.0.0.1:8080
 ```
 
 et vous devriez avoir :
